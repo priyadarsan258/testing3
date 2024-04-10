@@ -3,3 +3,5 @@ addition
 multiplication
 
 division
+
+exponential
