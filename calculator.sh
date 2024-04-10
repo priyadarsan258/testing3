@@ -8,3 +8,6 @@ percentage
 
 exponential
 
+statises
+currency
+
