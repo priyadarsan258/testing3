@@ -5,3 +5,5 @@ multiplication
 division
 
 exponential
+
+trading cals
